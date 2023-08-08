@@ -1,4 +1,4 @@
-# FullStack-Logitech-Rebuilt-Website
+# Logitech-Rebuilt-Website
 
 This website is redesigned and rebuilt version of the Logitech website.
 
